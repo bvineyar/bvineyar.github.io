@@ -1,2 +1,2 @@
-# bvineyar.github.io
+# bvineyard.github.io
 Brian Vineyard - Online Portfolio
