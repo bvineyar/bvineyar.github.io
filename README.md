@@ -10,7 +10,7 @@ My skills include:
 - **Reports**: Excel, SQL Server, ServiceNow, Salesforce
 - **Support Administration**: ServiceNow, Salesforce, JIRA, Remedy, HappyFox
 - **Softskills**: Presentation, Communication (PowerPoint, Google Slides, Zoom, WebEx)
-- **Team Collaboration**: Microsoft Teams, Github, Confluence, Slack
+- **Team Collaboration**: Microsoft Teams, Github, JIRA, Confluence, Slack
 - **Knowledgebase/Technical Writing**: Confluence, Word, Google Docs, Salesforce, ServiceNow, HappyFox
 ---
 
