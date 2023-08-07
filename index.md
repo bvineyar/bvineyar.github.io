@@ -10,7 +10,7 @@
 <b>Tools</b>: Python, Jupyter Notebooks, pandas, numpy, JSON, pickle, GeoPy, BeautifulSoup, matplotlib, and sklearn.
 
 ---
-[SuperStore Financials]<br />(/pdf/superstore.pdf)
+[SuperStore Financials](/pdf/superstore.pdf)
 <img src="images/SuperStore_thumbnail.png?raw=true"/>
 <br />
 <b>Tools</b>: Excel, DAX, Power Query, Pivot Tables, bar charts, line charts, slicers.
