@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Data Science
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[IBM Capstone Project - Broadway Theater District, New York City Travel Tour Analysis](/sample_page)
+<img src="images/broadway_thumbnail.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2
+### Power BI
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
