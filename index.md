@@ -10,8 +10,8 @@
 <b>Tools</b>: Python, Jupyter Notebooks, pandas, numpy, JSON, pickle, GeoPy, BeautifulSoup, matplotlib, and sklearn.
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[SuperStore Financials](/pdf/superstore.pdf)
+<img src="images/SuperStore_thumbnail.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
