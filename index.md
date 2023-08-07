@@ -13,10 +13,10 @@
 [Global SuperStore Financials - Dataset from Kaggle, Financial Analysis Dashboard](https://github.com/bvineyar/Brian_Vineyard_Portfolio/blob/master/pdf/Superstore.pdf)
 <img src="images/SuperStore_thumbnail.png?raw=true"/>
 <br />
-<b>Tools</b>: Excel, DAX, Power Query, Pivot Tables, bar charts, line charts, slicers.</b>
+<b>Tools</b>: Excel, DAX, Power Query, Pivot Tables, bar charts, line charts, slicers.
 
 ---
-[Northwind Database SQL Queries in Azure Data Studio from SQL Server Connection](https://github.com/bvineyar/Brian_Vineyard_Portfolio/blob/master/pdf/AzureProject.pdf)
+[Northwind Database SQL Queries in Azure Data Studio from Connection to SQL Server](https://github.com/bvineyar/Brian_Vineyard_Portfolio/blob/master/pdf/AzureProject.pdf)
 <img src="images/AzureDataThumb.png?raw=true"/>
 <br />
 <b>Tools</b>: SQL, SQL Server, SSMS, Azure Data Studio
