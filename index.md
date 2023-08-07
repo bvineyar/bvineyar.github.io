@@ -6,7 +6,7 @@
 
 [IBM Capstone Project - Broadway Theater District, New York City Travel Tour Analysis](/sample_page)
 <img src="images/broadway_thumbnail.png?raw=true"/>
-
+<br />
 Tools: Python, Jupyter Notebooks, pandas, numpy, JSON, pickle, GeoPy, BeautifulSoup, matplotlib, and sklearn.
 
 ---
