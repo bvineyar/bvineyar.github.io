@@ -16,10 +16,18 @@ My skills include:
 
 ### Projects
 
+#### Python / Jupyter Notebooks
+
 [IBM Data Science Capstone Project: Geospatial Analysis of New York's Broadway Theater District](https://github.com/bvineyar/IBM-Data-Science-Final-Capstone-Project)  
 
+#### Power BI
 
-#### Python / Jupyter Notebooks
+- [Adventure Works Financial/Sales Analysis](https://github.com/bvineyar/Adventure-Works-Power-BI-Report)
+- [Fitness Tracker](https://github.com/bvineyar/Fitness-Tracker-Power-BI)
+
+
+[Adventure Works
+
 
 
 ___
