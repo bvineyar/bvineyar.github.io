@@ -12,6 +12,8 @@
 ---
 [SuperStore Financials](/pdf/superstore.pdf)
 <img src="images/SuperStore_thumbnail.png?raw=true"/>
+<br />
+<b>Tools</b>: Excel, DAX, Power Query, Pivot Tables, bar charts, line charts, slicers.
 
 ---
 [Project 3 Title](http://example.com/)
