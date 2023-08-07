@@ -12,7 +12,6 @@ My skills include:
 - **Softskills**: Presentation, Communication (PowerPoint, Google Slides, Zoom, WebEx)
 - **Team Collaboration**: Microsoft Teams, Github, Confluence, Slack
 - **Knowledgebase/Technical Writing**: Confluence, Word, Google Docs, Salesforce, ServiceNow, HappyFox
-
 ---
 
 ### Projects
