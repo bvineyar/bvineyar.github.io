@@ -1,23 +1,28 @@
 ## Brian Vineyard - Data Analyst Portfolio
 
-### Introduction
+### Skillset
 
 As a data analyst with over 12 years experience at Cisco and PacketFabric, I have led projects to improve customer service, while reducing support costs.
 My skills include:
-- **Dashboards/Reports**: Power BI, Tableau, Jupyter Notebooks
-- **Data Modeling**: Python, SQL, Azure Data Studio, DAX, Power Query, Machine Learning-
+- **Dashboards/Reports**: Power BI, Tableau, Excel, GoogleSheets, Jupyter Notebooks
+- **Data Modeling**: Python, SQL, Azure Data Studio, DAX, Power Query, Excel
 - **Databases**: SQL Server, PostgreSQL, MySQL, Oracle
-- **Excel**, SQL Server, ServiceNow, Salesforce
-- **Customer Support Administration**: ServiceNow, Salesforce, JIRA, Remedy, HappyFox
+- **Reports**: Excel, SQL Server, ServiceNow, Salesforce
+- **Support Administration**: ServiceNow, Salesforce, JIRA, Remedy, HappyFox
 - **Softskills**: Presentation, Communication (PowerPoint, Google Slides, Zoom, WebEx)
 - **Team Collaboration**: Microsoft Teams, Github, Confluence, Slack
 - **Knowledgebase/Technical Writing**: Confluence, Word, Google Docs, Salesforce, ServiceNow, HappyFox
 
-I 
+---
 
-### Installation
+### Projects
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+[IBM Data Science Capstone Project: Geospatial Analysis of New York's Broadway Theater District](https://github.com/bvineyar/IBM-Data-Science-Final-Capstone-Project)  
+
+
+#### Python / Jupyter Notebooks
+
+
 ___
 
 You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
