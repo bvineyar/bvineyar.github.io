@@ -19,7 +19,7 @@
 [Northwind Database SQL Queries in Azure Data Studio from Connection to SQL Server](https://github.com/bvineyar/Brian_Vineyard_Portfolio/blob/master/pdf/AzureProject.pdf)
 <img src="images/AzureDataThumb.png?raw=true"/>
 <br />
-<b>Tools</b>: SQL, SQL Server, SSMS, Azure Data Studio
+<b>Tools</b>: SQL, SQL Server, SSMS, Azure Data Studio.
 ---
 
 ### Power BI
