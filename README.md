@@ -1,10 +1,19 @@
-## Developer Portfolio Landing Page Template
+## Brian Vineyard - Data Analyst Portfolio
 
 ### Introduction
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+As a data analyst with over 12 years experience at Cisco and PacketFabric, I have led projects to improve customer service, while reducing support costs.
+My skills include:
+- Dashboards/Reports: Power BI, Tableau, Jupyter Notebooks
+- Data Modeling: Python, SQL, Azure Data Studio, DAX, Power Query, Machine Learning
+- Databases: SQL Server, PostgreSQL, MySQL, Oracle
+- Excel, SQL Server, ServiceNow, Salesforce
+- Customer Support Administration: ServiceNow, Salesforce, JIRA, Remedy, HappyFox
+- Softskills: Presentation, Communication (PowerPoint, Google Slides, Zoom, WebEx)
+- Team Collaboration: Microsoft Teams, Github, Confluence, Slack
+- Knowledgebase/Technical Writing: Confluence, Word, Google Docs, Salesforce, ServiceNow, HappyFox
 
-<img src="images/demo.gif?raw=true"/>
+I 
 
 ### Installation
 
