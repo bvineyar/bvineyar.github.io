@@ -4,7 +4,7 @@
 
 ### Data Science
 
-[IBM Capstone Project - Broadway Theater District, New York City Travel Tour Analysis](/https://github.com/bvineyar/IBM-Data-Science-Final-Capstone-Project)
+[IBM Capstone Project - Broadway Theater District, New York City Travel Tour Analysis](https://github.com/bvineyar/IBM-Data-Science-Final-Capstone-Project)
 <img src="images/broadway_thumbnail.png?raw=true"/>
 <br />
 <b>Tools</b>: Python, Jupyter Notebooks, pandas, numpy, JSON, pickle, GeoPy, BeautifulSoup, matplotlib, and sklearn.
