@@ -16,7 +16,7 @@
 <b>Tools</b>: Excel, DAX, Power Query, Pivot Tables, bar charts, line charts, slicers.
 
 ---
-[Project 3 Title](http://example.com/)
+[Northwind Database SQL in Azure Data Studio from SQL Server Database](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
