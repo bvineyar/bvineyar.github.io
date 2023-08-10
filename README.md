@@ -5,7 +5,8 @@
 As a data analyst with over 12 years experience at Cisco and PacketFabric, I have led projects to improve customer service, while reducing support costs.
 My skills include:
 - **Dashboards/Reports**: Power BI, Tableau, Excel, GoogleSheets, Jupyter Notebooks
-- **Data Modeling**: Python, SQL, Azure Data Studio, DAX, Power Query, Excel
+- **Cloud Data**: JupyterLab, Azure Data Studio
+- **Data Modeling**: Python, SQL, DAX, Power Query, Excel
 - **Databases**: SQL Server, PostgreSQL, MySQL, Oracle
 - **Reports**: Excel, SQL Server, ServiceNow, Salesforce
 - **Support Administration**: ServiceNow, Salesforce, JIRA, Remedy, HappyFox
