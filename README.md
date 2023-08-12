@@ -29,6 +29,9 @@ My skills include:
 
 [Adventure Works
 
+#### Tableau
+
+- [Netflix Movies & TV Shows Analysis](https://public.tableau.com/views/netflix_16879639661060/Netflix?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
 ___
