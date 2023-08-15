@@ -25,6 +25,11 @@ My skills include:
 
 - [Adventure Works Financial/Sales Analysis](https://github.com/bvineyar/Adventure-Works-Power-BI-Report)
 - [Fitness Tracker](https://github.com/bvineyar/Fitness-Tracker-Power-BI)
+- [Video Game Analysis](https://github.com/bvineyar/Brian_Vineyard_Portfolio/blob/master/Power%20BI/VG%20Analysis.pptx)
+
+#### Excel
+
+- [Global Superstore Analysis](https://github.com/bvineyar/Brian_Vineyard_Portfolio/blob/master/Excel/Superstore%20Report%20New.xlsx)
 
 #### Tableau
 
