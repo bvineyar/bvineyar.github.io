@@ -23,7 +23,7 @@ My skills include:
 
 #### Power BI
 
-- [International Skating Union Competition Score Sheet Analysis](https://github.com/bvineyar/Brian_Vineyard_Portfolio/blob/master/Power%20BI/skating.pbix)
+- [International Skating Union Competition Score Sheet Analysis](https://github.com/bvineyar/Brian_Vineyard_Portfolio/blob/master/Power%20BI/ISU%20Skating%20Competition%20Report.pbix)
 - [Adventure Works Financial/Sales Analysis](https://github.com/bvineyar/Adventure-Works-Power-BI-Report)
 - [Fitness Tracker](https://github.com/bvineyar/Fitness-Tracker-Power-BI)
 - [Video Game Analysis](https://github.com/bvineyar/Brian_Vineyard_Portfolio/blob/master/Power%20BI/VG%20Analysis.pptx)
