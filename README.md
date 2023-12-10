@@ -2,13 +2,13 @@
 
 ### Skillset
 
-As a data analyst with over 12 years experience at Cisco and PacketFabric, I have led projects to improve customer service, while reducing support costs.
+As a data analyst with over 12 years experience at OneMain Financial, Cisco and PacketFabric, I have led projects to improve IT services, customer support, and business operations while reducing costs.
 My skills include:
 - **Dashboards/Reports**: Power BI, Tableau, Excel, GoogleSheets, Jupyter Notebooks
-- **Cloud Data**: JupyterLab, Azure Data Studio
+- **Cloud Data**: JupyterLab, Azure Data Studio, JAMF Pro, Microsoft Endpoint Configuration Manager (MECM)
 - **Data Modeling**: Python, SQL, DAX, Power Query, Excel
-- **Databases**: SQL Server, PostgreSQL, MySQL, Oracle
-- **Reports**: Excel, SQL Server, ServiceNow, Salesforce
+- **Databases**: SQL Server, PostgreSQL, MySQL, Oracle, Access
+- **Reports**: Excel, SQL Server, ServiceNow, Salesforce, Jira, Confluence
 - **Support Administration**: ServiceNow, Salesforce, JIRA, Remedy, HappyFox
 - **Softskills**: Presentation, Communication (PowerPoint, Google Slides, Zoom, WebEx)
 - **Team Collaboration**: Microsoft Teams, Github, JIRA, Confluence, Slack
