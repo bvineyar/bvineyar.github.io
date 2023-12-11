@@ -42,7 +42,7 @@ My skills include:
 - Designed dashboards and reports for Network Operations, Customer Support, and RStor Support
 - Reduced network support tickets by continuous improvements to processes and services
 - Data visualizations including bar charts, 
-- reporting top issues, MTTR, Average First Response, SLA, CSAT/NPR
+- Reporting top issues, MTTR, Average First Response, SLA, CSAT/NPR
 
 #### Cisco (May 2003 - Sept 2019) Data Analyst | Technical Writer
 - Reporting for Cisco Webex Customer Support and Readiness
