@@ -15,7 +15,7 @@ My skills include:
 - **Knowledgebase/Technical Writing**: Confluence, Word, Google Docs, Salesforce, ServiceNow, HappyFox
 ---
 
-### Projects
+### Projects and Work Experience
 
 #### Python / Jupyter Notebooks
 
