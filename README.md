@@ -17,7 +17,7 @@ My skills include:
 
 ### Projects and Work Experience
 
-[Reporting and Dashboard Design](https://github.com/bvineyar/Brian_Vineyard_Portfolio/blob/master/Data%20Analyst%20Portfolio.pptx)
+[Reporting and Dashboard Design](https://github.com/bvineyar/Brian_Vineyard_Portfolio/blob/master/Data%20Analyst%20Portfolio.pptx): PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau
 
 #### Python / Jupyter Notebooks
 
