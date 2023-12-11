@@ -17,6 +17,8 @@ My skills include:
 
 ### Projects and Work Experience
 
+[Reporting and Dashboard Design](https://github.com/bvineyar/Brian_Vineyard_Portfolio/blob/master/Data%20Analyst%20Portfolio.pptx)
+
 #### Python / Jupyter Notebooks
 
 [IBM Data Science Capstone Project: Geospatial Analysis of New York's Broadway Theater District](https://github.com/bvineyar/IBM-Data-Science-Final-Capstone-Project)  
@@ -51,26 +53,5 @@ My skills include:
 - Data import from ServiceNow, Salesforce, Remedy, and Jira
 - Data cleaning in Python, Excel and Power Query
 - Reporting improved Cisco cloud collaboration services while reducing support volume
-
-
-#### Power BI
-
-- [Jira IT Service Desk Analysis](https://github.com/bvineyar/Brian_Vineyard_Portfolio/blob/master/Power%20BI/Support%20Analysis.pbix)
-- [International Skating Union Competition Score Sheet Analysis](https://github.com/bvineyar/Brian_Vineyard_Portfolio/blob/master/Power%20BI/ISU%20Skating%20Competition%20Report.pbix)
-- [Adventure Works Financial/Sales Analysis](https://github.com/bvineyar/Adventure-Works-Power-BI-Report)
-- [Fitness Tracker](https://github.com/bvineyar/Fitness-Tracker-Power-BI)
-- [Video Game Analysis](https://github.com/bvineyar/Brian_Vineyard_Portfolio/blob/master/Power%20BI/VG%20Analysis.pptx)
-
-#### Excel
-
-- [Global Superstore Analysis](https://github.com/bvineyar/Brian_Vineyard_Portfolio/blob/master/Excel/Superstore%20Report%20New.xlsx)
-
-#### Tableau
-
-- [Netflix Movies & TV Shows Analysis](https://public.tableau.com/views/netflix_16879639661060/Netflix?:language=en-US&:display_count=n&:origin=viz_share_link)
-- [Amazing Mart EU2](https://public.tableau.com/shared/6RCGNFGK3?:display_count=n&:origin=viz_share_link)
-
-
-___
 
 
