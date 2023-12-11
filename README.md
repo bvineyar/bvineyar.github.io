@@ -21,6 +21,31 @@ My skills include:
 
 [IBM Data Science Capstone Project: Geospatial Analysis of New York's Broadway Theater District](https://github.com/bvineyar/IBM-Data-Science-Final-Capstone-Project)  
 
+#### Power BI Reports and Dashboards
+#### OneMain Financial
+- Enterprise Desktop and Mobility Engineering team reporting and analytics
+- Dashboards created in Power BI Service to manage ServiceNow and Jira workload, and Windows and Mac system deployments
+- Connected to multiple data sources: Snowflake, ServiceNow, Jira, JAMF Pro, Intune, Devo
+- Optimized queries to improve performance and reduce size of dataset for fast load times
+- Created DAX measures to track performance based on Key Performance Indicators (KPI) including SLA and Mean Time to Resolve (MTTR)
+- Setup scheduled refresh of data
+- Created Power Automate processes to send alerts when performance metrics exceed threshold
+- Data visualizations include Cards, Bar charts, Column Charts, Geospatial maps
+- AI Modeling and Analytics to gain insights into top issues causing support tickets 
+
+#### PacketFabric
+- Reporting for Network Engineering
+- Dashboards track and monitor network operations and support including Cloud Connectivity to Azure, AWS, and Google Cloud
+- Connected to ServiceNow, Jira, Salesforce, Grafana, HappyFox
+- Created custom queries to build reporting for tracking metrics against goals
+- Improved network operations and reliability by identifying problems and root cause of issues
+- Designed dashboards and reports for Network Operations, Customer Support, and RStor Support
+- Reduced network support tickets by continuous improvements to processes and services
+- Data visualizations including bar charts, 
+- reporting top issues, MTTR, Average First Response, SLA, CSAT/NPR
+
+####
+
 #### Power BI
 
 - [Jira IT Service Desk Analysis](https://github.com/bvineyar/Brian_Vineyard_Portfolio/blob/master/Power%20BI/Support%20Analysis.pbix)
