@@ -31,7 +31,7 @@ My skills include:
 - Setup scheduled refresh of data
 - Created Power Automate processes to send alerts when performance metrics exceed threshold
 - Data visualizations include Cards, Bar charts, Column Charts, Geospatial maps
-- AI Modeling and Analytics to gain insights into top issues causing support tickets 
+- AI Modeling and Analytics to gain insights into top issues affecting performance
 
 #### PacketFabric (Feb 2020 - Jun 2023) Senior Data Analyst
 - Reporting for Network Engineering
