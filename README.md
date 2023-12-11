@@ -22,7 +22,7 @@ My skills include:
 [IBM Data Science Capstone Project: Geospatial Analysis of New York's Broadway Theater District](https://github.com/bvineyar/IBM-Data-Science-Final-Capstone-Project)  
 
 #### Power BI Reports and Dashboards
-#### OneMain Financial
+#### OneMain Financial (Sept 2023 - Dec 2023) Business Intelligence Data Analyst
 - Enterprise Desktop and Mobility Engineering team reporting and analytics
 - Dashboards created in Power BI Service to manage ServiceNow and Jira workload, and Windows and Mac system deployments
 - Connected to multiple data sources: Snowflake, ServiceNow, Jira, JAMF Pro, Intune, Devo
@@ -33,7 +33,7 @@ My skills include:
 - Data visualizations include Cards, Bar charts, Column Charts, Geospatial maps
 - AI Modeling and Analytics to gain insights into top issues causing support tickets 
 
-#### PacketFabric
+#### PacketFabric (Feb 2020 - Jun 2023) Senior Data Analyst
 - Reporting for Network Engineering
 - Dashboards track and monitor network operations and support including Cloud Connectivity to Azure, AWS, and Google Cloud
 - Connected to ServiceNow, Jira, Salesforce, Grafana, HappyFox
@@ -44,7 +44,14 @@ My skills include:
 - Data visualizations including bar charts, 
 - reporting top issues, MTTR, Average First Response, SLA, CSAT/NPR
 
-####
+#### Cisco (May 2003 - Sept 2019) Data Analyst | Technical Writer
+- Reporting for Cisco Webex Customer Support and Readiness
+- Machine Learning data analysis in Python Jupyter Notebooks to build model from unstructured text data in support tickets
+- Reports and dashboards in Power BI tracked and monitored top support issues from customer tickets over time
+- Data import from ServiceNow, Salesforce, Remedy, and Jira
+- Data cleaning in Python, Excel and Power Query
+- Reporting improved Cisco cloud collaboration services while reducing support volume
+
 
 #### Power BI
 
