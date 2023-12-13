@@ -46,7 +46,7 @@ PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: [Repor
 - Data visualizations including bar charts, 
 - Reporting top issues, MTTR, Average First Response, SLA, CSAT/NPR
 
-#### Cisco (May 2003 - Sept 2019) Data Analyst | Technical Writer
+#### Cisco (May 2012 - Sept 2019) Data Analyst | Technical Writer
 - Reporting for Cisco Webex Customer Support and Readiness
 - Machine Learning data analysis in Python Jupyter Notebooks to build model from unstructured text data in support tickets
 - Reports and dashboards in Power BI tracked and monitored top support issues from customer tickets over time
