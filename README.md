@@ -27,7 +27,13 @@ PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: [Repor
 
 #### Power BI Reports and Dashboards
 
-##### International Skating Union (ISU) Competition Analysis
+#### Jira Service Desk Issue Analysis
+
+Analysis of sample data from Jira issues.
+
+
+
+#### International Skating Union (ISU) Competition Analysis
 
 Analysis of judge scoring in ISU Competitions (Oct 2016 - Dec 2017) for project request from boostup.ai
 
@@ -35,13 +41,13 @@ Analysis of judge scoring in ISU Competitions (Oct 2016 - Dec 2017) for project 
 
 Dataset: [BuzzFeedNews Figure Skating Scores](https://github.com/BuzzFeedNews/figure-skating-scores/tree/master)
 
-##### Video Game Sales Analysis
+#### Video Game Sales Analysis
 
 Analysis of Video Game Sales data from 1996 - 2016
 
 ![VG Sales Report](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/VGSales.png)
 
-##### Fitness Tracker
+#### Fitness Tracker
 
 Personal Fitness Tracker allowing users to track their fitness and health scores with heart rate, daily steps, daily calories, and total exercise sessions.
 
