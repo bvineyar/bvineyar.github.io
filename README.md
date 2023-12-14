@@ -28,7 +28,9 @@ PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: [Repor
 #### Power BI Reports and Dashboards
 
 ##### International Skating Union (ISU) Competition Analysis
-![ISU Report](/assets/images/IS.png)
+![ISU Report](https://github.com/bvineyar/bvineyar.github.io//assets/images/IS.png)
+
+
 
 ##### Video Game Sales Analysis
 ##### Fitness Tracker
