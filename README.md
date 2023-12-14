@@ -3,7 +3,9 @@
 ### Skillset
 
 As a data analyst with over 12 years experience at OneMain Financial, Cisco and PacketFabric, I have led projects to improve IT services, customer support, and business operations while reducing costs.
+
 My skills include:
+
 - **Dashboards/Reports**: Power BI, Tableau, Excel, GoogleSheets, Jupyter Notebooks
 - **Cloud Data**: Snowflake, JupyterLab, Azure Data Studio, JAMF Pro, Intune, Jira Cloud
 - **Data Modeling**: Python, SQL, DAX, Power Query, Excel
