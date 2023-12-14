@@ -29,14 +29,17 @@ PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: [Repor
 
 ##### International Skating Union (ISU) Competition Analysis
 
-Analysis of judge scoring in ISU Competitions (Oct 2016 - Dec 2017) from the BuzzFeedNews github repository for project request from boostup.ai
-Dataset: [figure-skating-scores](https://github.com/BuzzFeedNews/figure-skating-scores/tree/master)
+Analysis of judge scoring in ISU Competitions (Oct 2016 - Dec 2017) for project request from boostup.ai
 
 ![ISU Report](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/IS.png)
 
-
+Dataset: [BuzzFeedNews Figure Skating Scores](https://github.com/BuzzFeedNews/figure-skating-scores/tree/master)
 
 ##### Video Game Sales Analysis
+
+Analysis of Video Game Sales data from 1980 - 2020
+
+
 ##### Fitness Tracker
 #####
 
