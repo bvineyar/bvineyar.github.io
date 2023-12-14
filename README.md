@@ -45,6 +45,10 @@ Dataset: [BuzzFeedNews Figure Skating Scores](https://github.com/BuzzFeedNews/fi
 ----
 #### Maven Market Analysis
 
+Analysis of Maven Market dataset from Microsoft Power BI Desktop for Business Intelligence (2023) course on Udemy
+
+
+![Maven Market Report](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/maven.png)
 
 ----
 
