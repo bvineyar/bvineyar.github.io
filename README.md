@@ -19,11 +19,19 @@ My skills include:
 
 PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: [Reporting and Dashboard Design](https://github.com/bvineyar/Brian_Vineyard_Portfolio/blob/master/Data%20Analyst%20Portfolio.pptx)
 
+####
+
 #### Python / Jupyter Notebooks
 
 [IBM Data Science Capstone Project: Geospatial Analysis of New York's Broadway Theater District](https://github.com/bvineyar/IBM-Data-Science-Final-Capstone-Project)  
 
 #### Power BI Reports and Dashboards
+#####International Skating Union (ISU) Competition Analysis
+
+#####Video Game Sales Analysis
+#####Fitness Tracker
+#####
+
 #### OneMain Financial (Sept 2023 - Dec 2023) Business Intelligence Data Analyst
 - Enterprise Desktop and Mobility Engineering team reporting and analytics
 - Dashboards created in Power BI Service to manage ServiceNow and Jira workload, and Windows and Mac system deployments
