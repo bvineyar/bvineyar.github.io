@@ -34,7 +34,6 @@ Analysis of sample data from Jira issues.
 ![Jira Service Desk Issues](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/jira.png)
 
 
-
 #### International Skating Union (ISU) Competition Analysis
 
 Analysis of judge scoring in ISU Competitions (Oct 2016 - Dec 2017) for project request from boostup.ai
@@ -55,7 +54,9 @@ Personal Fitness Tracker allowing users to track their fitness and health scores
 
 ![Personal Fitness Report](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/fitness.png)
 
-#####
+---
+
+### Work History
 
 #### OneMain Financial (Sept 2023 - Dec 2023) Business Intelligence Data Analyst
 - Enterprise Desktop and Mobility Engineering team reporting and analytics
