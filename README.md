@@ -40,6 +40,8 @@ Analysis of judge scoring in ISU Competitions (Oct 2016 - Dec 2017) for project 
 
 Dataset: [BuzzFeedNews Figure Skating Scores](https://github.com/BuzzFeedNews/figure-skating-scores/tree/master)
 
+----
+
 #### Video Game Sales Analysis
 
 Analysis of Video Game Sales data from 1996 - 2016
@@ -48,11 +50,15 @@ Analysis of Video Game Sales data from 1996 - 2016
 
 Dataset: [Video Games Sales dataset on Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
+----
+
 #### Fitness Tracker
 
 Personal Fitness Tracker allowing users to track their fitness and health scores with heart rate, daily steps, daily calories, and total exercise sessions.
 
 ![Personal Fitness Report](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/fitness.png)
+
+-----
 
 #### Adventure Works Analysis
 
