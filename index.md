@@ -24,11 +24,12 @@
 
 ### Power BI
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Jira Service Desk Issues](http://example.com/)
+- [International Skating Union (ISU) Competitions](http://example.com/)
+- [Maven Market](http://example.com/)
+- [Video Game Sales](http://example.com/)
+- [Fitness Tracker App](http://example.com/)
+- [Adventure Works](http://example.com/)
 
 ---
 
