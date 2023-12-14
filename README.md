@@ -31,6 +31,8 @@ Analysis of sample data from Jira issues.
 
 ![Jira Service Desk Issues](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/jira.png)
 
+-----
+
 
 #### International Skating Union (ISU) Competition Analysis
 
