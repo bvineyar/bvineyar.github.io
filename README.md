@@ -39,6 +39,7 @@ Dataset: [BuzzFeedNews Figure Skating Scores](https://github.com/BuzzFeedNews/fi
 
 Analysis of Video Game Sales data from 1980 - 2020
 
+![VG Sales Report](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/VGSales.png)
 
 ##### Fitness Tracker
 #####
