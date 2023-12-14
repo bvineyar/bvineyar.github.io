@@ -46,6 +46,8 @@ Analysis of Video Game Sales data from 1996 - 2016
 
 ![VG Sales Report](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/VGSales.png)
 
+Dataset: [Video Games Sales dataset on Kaggle](https://www.kaggle.com/datasets/gregorut/videogamesales)
+
 #### Fitness Tracker
 
 Personal Fitness Tracker allowing users to track their fitness and health scores with heart rate, daily steps, daily calories, and total exercise sessions.
