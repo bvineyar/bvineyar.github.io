@@ -56,7 +56,7 @@ Personal Fitness Tracker allowing users to track their fitness and health scores
 
 #### Adventure Works Analysis
 
-![Adventure Works](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/AW.png)
+![Adventure Works](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/adventureworks.png)
 
 
 ---
