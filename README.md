@@ -43,6 +43,10 @@ Analysis of judge scoring in ISU Competitions (Oct 2016 - Dec 2017) for project 
 Dataset: [BuzzFeedNews Figure Skating Scores](https://github.com/BuzzFeedNews/figure-skating-scores/tree/master)
 
 ----
+#### Maven Market Analysis
+
+
+----
 
 #### Video Game Sales Analysis
 
