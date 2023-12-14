@@ -31,6 +31,8 @@ PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: [Repor
 
 Analysis of sample data from Jira issues.
 
+![Jira Service Desk Issues](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/Jira.png)
+
 
 
 #### International Skating Union (ISU) Competition Analysis
