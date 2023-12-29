@@ -84,7 +84,7 @@ Personal Fitness Tracker allowing users to track their fitness and health scores
 
 ### Work History
 
-#### OneMain Financial (Sept 2023 - Dec 2023) Business Intelligence Data Analyst
+#### Apex Systems/ OneMain Financial (Sept 2023 - Dec 2023) Business Intelligence Data Analyst
 - Enterprise Desktop and Mobility Engineering team reporting and analytics
 - Dashboards created in Power BI Service to manage ServiceNow and Jira workload, and Windows and Mac system deployments
 - Connected to multiple data sources: Snowflake, ServiceNow, Jira, JAMF Pro, Intune, Devo
