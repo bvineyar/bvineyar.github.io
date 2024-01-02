@@ -27,7 +27,7 @@ PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: [Brian
 
 #### Microsoft Financial Analysis Dataset
 
-
+![Microsoft Financial Data](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/MoFo Finance.png)
 
 #### Jira Service Desk Issue Analysis
 
