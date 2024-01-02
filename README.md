@@ -7,7 +7,7 @@ As a data analyst with over 12 years experience at OneMain Financial, Cisco and 
 My skills include:
 
 - **Dashboards/Reports**: Power BI, Tableau, Excel, GoogleSheets, Jupyter Notebooks
-- **Cloud Data**: Snowflake, JupyterLab, Azure Data Studio, JAMF Pro, Intune, Jira Cloud
+- **Cloud Data**: SSRS, Snowflake, JupyterLab, Azure Data Studio, JAMF Pro, Intune, Jira Cloud
 - **Data Modeling**: Python, SQL, DAX, Power Query, Excel
 - **Databases**: SQL Server, PostgreSQL, MySQL, Oracle, Access
 - **Reports**: Excel, SQL Server, ServiceNow, Salesforce, Jira, Confluence
@@ -27,7 +27,7 @@ PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: [Brian
 
 #### Jira Service Desk Issue Analysis
 
-Analysis of sample data from Jira issues.
+Analysis of sample help desk data from Jira issues.
 
 ![Jira Service Desk Issues](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/jira.png)
 
@@ -36,7 +36,7 @@ Analysis of sample data from Jira issues.
 
 #### International Skating Union (ISU) Competition Analysis
 
-Analysis of judge scoring in ISU Competitions (Oct 2016 - Dec 2017) for project request from boostup.ai
+Real-world data from Buzzfeed analysis of judge scoring in ISU Competitions (Oct 2016 - Dec 2017) for project request from boostup.ai
 
 ![ISU Report](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/IS.png)
 
