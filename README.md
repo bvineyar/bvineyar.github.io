@@ -104,7 +104,7 @@ Personal Fitness Tracker allowing users to track their fitness and health scores
 - Designed dashboards and reports for Network Operations, Customer Support, and RStor Support
 - Reduced network support tickets by continuous improvements to processes and services
 - Data visualizations including bar charts, 
-- Reporting top issues, MTTR, Average First Response, SLA, CSAT/NPR
+- Reporting Network Circuit Performance / Availability, Top Support Issues, MTTR, Average First Response, SLA, CSAT/NPR
 
 #### Cisco (May 2012 - Sept 2019) Data Analyst | Technical Writer
 - Reporting for Cisco Webex Customer Support and Readiness
