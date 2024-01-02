@@ -25,6 +25,10 @@ PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: [Brian
 
 #### Power BI Reports and Dashboards
 
+#### Microsoft Financial Analysis Dataset
+
+
+
 #### Jira Service Desk Issue Analysis
 
 Analysis of sample help desk data from Jira issues.
