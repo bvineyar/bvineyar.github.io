@@ -8,7 +8,7 @@ My skills include:
 
 - **Dashboards/Reports**: Power BI, Tableau, Excel, GoogleSheets, Jupyter Notebooks
 - **Cloud Data**: SSRS, Snowflake, JupyterLab, Azure Data Studio, JAMF Pro, Intune, Jira Cloud
-- **Data Modeling**: Python, SQL, DAX, Power Query, Excel
+- **Data Modeling**: Python, SQL, DAX, Power Query, Excel, Statistical Analysis
 - **Databases**: SQL Server, PostgreSQL, MySQL, Oracle, Access
 - **Reports**: Excel, SQL Server, ServiceNow, Salesforce, Jira, Confluence
 - **Support Administration**: ServiceNow, Salesforce, JIRA, Remedy, HappyFox
