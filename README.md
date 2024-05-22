@@ -2,7 +2,7 @@
 
 ### Skillset
 
-As a data analyst with over 12 years experience at OneMain Financial, Cisco and PacketFabric, I have led projects to improve IT services, customer support, and business operations while reducing costs.
+As a data analyst with over 12 years experience at Morrison & Foerster, OneMain Financial, Cisco and PacketFabric, I have led projects to improve IT services, customer support, and business operations while reducing costs.
 
 My skills include:
 
