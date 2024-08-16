@@ -7,7 +7,7 @@ As a data analyst with over 12 years experience at Morrison & Foerster, OneMain 
 My skills include:
 
 - **Dashboards/Reports**: Power BI, Tableau, Excel, GoogleSheets, Jupyter Notebooks
-- **Cloud Data**: SSRS, Snowflake, JupyterLab, Azure Data Studio, JAMF Pro, Intune, Jira Cloud
+- **Cloud Data**: SSRS, Snowflake, JupyterLab, Azure Data Studio, JAMF Pro, Intune, Jira Cloud, Grafana
 - **Data Modeling**: Python, SQL, DAX, Power Query, Excel, Statistical Analysis
 - **Databases**: SQL Server, PostgreSQL, MySQL, Oracle, Access
 - **Reports**: Excel, SQL Server, ServiceNow, Salesforce, Jira, Confluence
@@ -87,6 +87,8 @@ Personal Fitness Tracker allowing users to track their fitness and health scores
 ---
 
 ### Work History
+
+#### Binding Minds / Morrison and Foerster (Jan 2024 - A
 
 #### Apex Systems/ OneMain Financial (Sept 2023 - Dec 2023) Business Intelligence Data Analyst
 - Enterprise Desktop and Mobility Engineering team reporting and analytics
