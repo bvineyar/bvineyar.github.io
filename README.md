@@ -88,7 +88,11 @@ Personal Fitness Tracker allowing users to track their fitness and health scores
 
 ### Work History
 
-#### Binding Minds / Morrison and Foerster (Jan 2024 - A
+#### Binding Minds / Morrison and Foerster (Jan 2024 - Apr 2024)
+- Comprehensive Power BI Reporting for Morrison and Foerster law firm
+- Conversion of existing reports from SAP and Tableau to Power BI
+- Deployment of reports and dashboards to Power BI Online service
+- Setup and automation of scheduled refreshes on a monthly basis
 
 #### Apex Systems/ OneMain Financial (Sept 2023 - Dec 2023) Business Intelligence Data Analyst
 - Enterprise Desktop and Mobility Engineering team reporting and analytics
