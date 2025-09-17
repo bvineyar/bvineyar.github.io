@@ -2,18 +2,18 @@
 
 ### Skillset
 
-As a data analyst with over 12 years experience at Morrison & Foerster, OneMain Financial, Cisco and PacketFabric, I have led projects to improve IT services, customer support, and business operations while reducing costs.
+As a data analyst with over 20 years experience at Cisco, Leidos, Morrison & Foerster, OneMain Financial, Cal Fed Investments, and PacketFabric, I have led projects to improve IT services, customer support, and business operations while reducing costs.
 
 My skills include:
 
 - **Dashboards/Reports**: Power BI, Tableau, Excel, GoogleSheets, Jupyter Notebooks
-- **Cloud Data**: SSRS, Snowflake, JupyterLab, Azure Data Studio, JAMF Pro, Intune, Jira Cloud, Grafana
-- **Data Modeling**: Python, SQL, DAX, Power Query, Excel, Statistical Analysis
+- **Cloud Data**: Snowflake, JupyterLab, Azure Data Studio, JAMF Pro, Intune, Jira Cloud, Grafana
+- **Data Modeling**: dbt, Python, SQL, DAX, Power Query, Excel, Statistical Analysis
 - **Databases**: SQL Server, PostgreSQL, MySQL, Oracle, Access
 - **Reports**: Excel, SQL Server, ServiceNow, Salesforce, Jira, Confluence
 - **Support Administration**: ServiceNow, Salesforce, JIRA, Remedy, HappyFox
-- **Softskills**: Presentation, Communication, Project Management 
-- **Team Collaboration**: Microsoft Teams, Github, JIRA, Confluence, Slack
+- **Softskills**: Requirements Gathering, Presentation, Communication, Project Management 
+- **Team Collaboration**: Microsoft Teams, Github, JIRA, Confluence, Slack, SharePoint
 - **Knowledgebase/Technical Writing**: Confluence, Word, Google Docs, Salesforce, ServiceNow, HappyFox
 ---
 
@@ -87,6 +87,15 @@ Personal Fitness Tracker allowing users to track their fitness and health scores
 ---
 
 ### Work History
+
+#### Robert Half / Leidos (Sept 2024 - Dec 2024)
+- Analyzed asset data quality for all Software and Hardware assets in ServiceNow.
+- ETL of data from ServiceNow into Power BI using Power Query.
+- Designed and optimized data model for IT Service Managment (ITSM).
+- Integration and automation of data between ServiceNow, SharePoint, and Power BI.
+- Collaborated with team leads and key stakeholders to gather system requirements.
+- Designed and published Power BI reports – including compliance, KPI and trend reports.
+- Contributed to continuous improvement efforts related to data governance or processes.
 
 #### Binding Minds / Morrison and Foerster (Jan 2024 - Apr 2024)
 - Comprehensive Power BI Reporting for Morrison and Foerster law firm
