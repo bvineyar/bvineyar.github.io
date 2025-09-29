@@ -27,7 +27,15 @@ PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: [Brian
 
 #### AMA Waterways River Cruise Ships
 
-![AMA Waterways Cruise Ship Data]
+![AMA Waterways Cruise Ship Data](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/AMAWaterways.png)
+
+Analysis of cruise ships at AMA Waterways
+
+#### 2015 Flight Delays and Cancellations
+
+![2015 Flight Delay and Cancellation Data](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/FlightDelays.png)
+
+Analysis of flight delays and cancellations in 2016 from Kaggle dataset
 
 #### Microsoft Financial Analysis Dataset
 
