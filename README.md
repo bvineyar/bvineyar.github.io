@@ -35,7 +35,7 @@ Analysis of cruise ships at [AMA Waterways](https://www.amawaterways.com/)
 
 ![2015 Flight Delay and Cancellation Data](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/FlightDelays.png)
 
-Analysis of flight delays and cancellations in 2016 from Kaggle dataset
+Analysis of flight delays and cancellations in 2016 from almost 6 million flights in a Kaggle dataset.
 
 #### Microsoft Financial Analysis Dataset
 
