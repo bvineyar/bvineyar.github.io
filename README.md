@@ -14,7 +14,7 @@ My skills include:
 - **Support Administration**: ServiceNow, Salesforce, JIRA, Remedy, HappyFox
 - **Softskills**: Requirements Gathering, Presentation, Communication, Project Management 
 - **Team Collaboration**: Microsoft Teams, Github, JIRA, Confluence, Slack, SharePoint
-- **Knowledgebase/Technical Writing**: Confluence, Word, Google Docs, Salesforce, ServiceNow, HappyFox
+- **Knowledgebase/Technical Writing**: Confluence, Word, Google Docs, Salesforce, ServiceNow, HappyFox, Markdown
 ---
 
 ### Projects and Work Experience
@@ -24,6 +24,10 @@ PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: [Brian
 ----
 
 #### Power BI Reports and Dashboards
+
+#### AMA Waterways River Cruise Ships
+
+![AMA Waterways Cruise Ship Data]
 
 #### Microsoft Financial Analysis Dataset
 
