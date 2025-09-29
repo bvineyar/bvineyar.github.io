@@ -29,7 +29,7 @@ PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: [Brian
 
 ![AMA Waterways Cruise Ship Data](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/AMAWaterways.png)
 
-Analysis of cruise ships at AMA Waterways
+Analysis of cruise ships at ![AMA Waterways](https://www.amawaterways.com/)
 
 #### 2015 Flight Delays and Cancellations
 
