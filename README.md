@@ -41,7 +41,7 @@ Analysis of flight delays and cancellations in 2016 from almost 6 million flight
 
 ![California Wildfires 2017 - 2024 Data](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/calfire.png)
 
-Analysis of wildfilres and structure damage from California wildfires (2017 - 2024), with 4,190 total records across 57 incidents, showing the Camp Fire in 2018 as the most destructive in state history
+Analysis of wildfilres and structure damage from California wildfires (2017 - 2024), with 4,190 total records across 57 incidents, showing the Camp Fire in 2018 as the most destructive in state history.
 
 
 #### Microsoft Financial Analysis Dataset
