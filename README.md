@@ -10,7 +10,7 @@ My skills include:
 - **Cloud Data**: Snowflake, JupyterLab, Azure Data Studio, JAMF Pro, Intune, Jira Cloud, Grafana
 - **Data Modeling**: dbt, Python, SQL, DAX, Power Query, Excel, Statistical Analysis
 - **Databases**: SQL Server, PostgreSQL, MySQL, Oracle, Access
-- **Reports**: Excel, SQL Server, ServiceNow, Salesforce, Jira, Confluence
+- **Reports**: SAP BusinessObjects, Excel, SQL Server, ServiceNow, Salesforce, Jira, Confluence
 - **Support Administration**: ServiceNow, Salesforce, JIRA, Remedy, HappyFox
 - **Softskills**: Requirements Gathering, Presentation, Communication, Project Management 
 - **Team Collaboration**: Microsoft Teams, Github, JIRA, Confluence, Slack, SharePoint
