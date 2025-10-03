@@ -41,7 +41,8 @@ Source: California Open Data Portal https://data.ca.gov/dataset/funding-position
 
 ![2015 Flight Delay and Cancellation Data](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/flights.png)
 
-Analysis of flight delays and cancellations in 2015 from almost 6 million flights in a Kaggle dataset.
+Analysis of flight delays and cancellations in 2015 from almost 6 million flights in a Kaggle dataset. Source: https://www.kaggle.com/datasets/usdot/flight-delays
+
 
 #### Call Metric Analysis - San Francisco Health Services (2011 - 2024)
 
