@@ -35,6 +35,12 @@ Analysis of wildfilres and structure damage from California wildfires (2017 - 20
 
 ![Historical Funding Positions of CalPers Contracting Agencies Over Time](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/CalPers.png)
 
+#### 2015 Flight Delays and Cancellations
+
+![2015 Flight Delay and Cancellation Data](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/FlightDelays.png)
+
+Analysis of flight delays and cancellations in 2016 from almost 6 million flights in a Kaggle dataset.
+
 #### Call Metric Analysis - San Francisco Health Services (2011 - 2024)
 
 ![Call Metric Analysis](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/SFHSS.png)
@@ -54,12 +60,6 @@ Analysis of law firm Bill to Plan by Practice Group. Data migrated from SAP Busi
 ![AMA Waterways Cruise Ship Data](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/AMAWaterways.png)
 
 Analysis of cruise ships at [AMA Waterways](https://www.amawaterways.com/)
-
-#### 2015 Flight Delays and Cancellations
-
-![2015 Flight Delay and Cancellation Data](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/FlightDelays.png)
-
-Analysis of flight delays and cancellations in 2016 from almost 6 million flights in a Kaggle dataset.
 
 
 #### Microsoft Financial Analysis Dataset
