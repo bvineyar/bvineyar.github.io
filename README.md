@@ -27,9 +27,9 @@ PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: [Brian
 
 #### Law Firm Practice Analytics
 
-![Law Fir](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/AMAWaterways.png)
+![Law Fir](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/Mofo3.png)
 
-Analysis of cruise ships at [AMA Waterways](https://www.amawaterways.com/)
+Analysis of law firm Bill to Plan by Practice Group. Data migrated from SAP BusinessObjects and Tableau to Power BI.
 
 
 #### AMA Waterways River Cruise Ships
