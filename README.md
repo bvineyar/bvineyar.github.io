@@ -25,11 +25,22 @@ PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: [Brian
 
 #### Power BI Reports and Dashboards
 
-#### Call Center Analysis - San Francisco Health Services
+#### California Wildfires and Structure Damage
 
-![Law Fir](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/Mofo3.png)
+![California Wildfires 2017 - 2024 Data](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/calfire.png)
 
-Analysis of law firm Bill to Plan by Practice Group. Data migrated from SAP BusinessObjects and Tableau to Power BI.
+Analysis of wildfilres and structure damage from California wildfires (2017 - 2024), with 4,190 total records across 57 incidents, showing the Camp Fire in 2018 as the most destructive in state history.
+
+#### CalPers Contracting Agencies Historial Funding Positions (FY 2002 - 2023)
+
+![Historical Funding Positions of CalPers Contracting Agencies Over Time](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/CalPers.png)
+
+#### Call Metric Analysis - San Francisco Health Services (2011 - 2024)
+
+![Call Metric Analysis](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/SFHSS.png)
+
+Analysis of 670,000 inbound calls to SFHSS including total calls, abandoned calls, avg speed of answer, and avg abandon rate.
+
 
 #### Law Firm Practice Analytics
 
@@ -49,12 +60,6 @@ Analysis of cruise ships at [AMA Waterways](https://www.amawaterways.com/)
 ![2015 Flight Delay and Cancellation Data](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/FlightDelays.png)
 
 Analysis of flight delays and cancellations in 2016 from almost 6 million flights in a Kaggle dataset.
-
-#### California Wildfires and Structure Damage
-
-![California Wildfires 2017 - 2024 Data](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/calfire.png)
-
-Analysis of wildfilres and structure damage from California wildfires (2017 - 2024), with 4,190 total records across 57 incidents, showing the Camp Fire in 2018 as the most destructive in state history.
 
 
 #### Microsoft Financial Analysis Dataset
