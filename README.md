@@ -25,6 +25,12 @@ PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: [Brian
 
 #### Power BI Reports and Dashboards
 
+#### Call Center Analysis - San Francisco Health Services
+
+![Law Fir](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/Mofo3.png)
+
+Analysis of law firm Bill to Plan by Practice Group. Data migrated from SAP BusinessObjects and Tableau to Power BI.
+
 #### Law Firm Practice Analytics
 
 ![Law Fir](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/Mofo3.png)
