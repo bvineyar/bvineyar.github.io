@@ -25,7 +25,7 @@ PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: [Brian
 
 #### Power BI Reports and Dashboards
 
-#### California Wildfires and Structure Damage
+#### California Wildfires and Structure Damage (2017 - 2024)
 
 ![California Wildfires 2017 - 2024 Data](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/calfire.png)
 
