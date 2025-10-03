@@ -37,7 +37,7 @@ Analysis of wildfilres and structure damage from California wildfires (2017 - 20
 
 #### 2015 Flight Delays and Cancellations
 
-![2015 Flight Delay and Cancellation Data](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/FlightDelays.png)
+![2015 Flight Delay and Cancellation Data](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/flights.png)
 
 Analysis of flight delays and cancellations in 2016 from almost 6 million flights in a Kaggle dataset.
 
@@ -46,7 +46,6 @@ Analysis of flight delays and cancellations in 2016 from almost 6 million flight
 ![Call Metric Analysis](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/SFHSS.png)
 
 Analysis of 670,000 inbound calls to SFHSS including total calls, abandoned calls, avg speed of answer, and avg abandon rate.
-
 
 #### Law Firm Practice Analytics
 
