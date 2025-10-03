@@ -31,7 +31,7 @@ PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: [Brian
 
 Analysis of wildfilres and structure damage from California wildfires (2017 - 2024), with 4,190 total records across 57 incidents, showing the Camp Fire in 2018 as the most destructive in state history.
 
-#### CalPers Contracting Agencies Historial Funding Positions (FY 2002 - 2023)
+#### CalPers Contracting Agencies Historical Funding Positions (FY 2002 - 2023)
 
 ![Historical Funding Positions of CalPers Contracting Agencies Over Time](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/CalPers.png)
 
