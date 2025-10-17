@@ -26,7 +26,7 @@ PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: [Brian
 #### Power BI Reports and Dashboards
 
 #### Sacramento International Airport (SMF) Passengers Departing and Arriving (Aug 2025)
-![Sacramento County Department of Airports - Passengers Aug 2025](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/passengers.png)
+![Sacramento International Airport - Passengers Aug 2025](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/passengers.png)
 
 #### California Wildfires and Structure Damage (2017 - 2024)
 
