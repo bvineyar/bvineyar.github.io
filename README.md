@@ -26,7 +26,10 @@ PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: [Brian
 #### Power BI Reports and Dashboards
 
 #### Sacramento International Airport (SMF) Passengers Departing and Arriving (Aug 2025)
-![Sacramento International Airport - Passengers Aug 2025](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/passengers.png)
+![Sacramento International Airport - Passengers Aug 2025](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/Passengers.png)
+
+Analysis of passenger data from Sacramento County Department of Airports showing total number enplaned (departing) and deplaned (arriving) for August 2025 by airline, with additional charts showing results for FY 2025 vs. 2026. 
+Here we see that Southwest serves the majority of flights, followed by United and American. At this pace, of about 600,000 passengers per month, the airport is on track for about 7.2 million passengers over a year.
 
 #### California Wildfires and Structure Damage (2017 - 2024)
 
