@@ -25,10 +25,11 @@ PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: [Brian
 
 #### Power BI Reports and Dashboards
 #### Sacramento International Airport (SMF) Inbound Flights and Arrival Performance (July 2015 - July 2025)
-![Sacramento International Airport - Passengers Aug 2025](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/ArrivalsSMF.png)
+![Sacramento International Airport - Passengers Aug 2025](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/ArrivalsSMFBlack
+.png)
 
 #### Sacramento International Airport (SMF) Monthly ArrivaLs (July 2015 - July 2025)
-![Sacramento International Airport - Passengers Aug 2025](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/MonthlyArrivals.png)
+![Sacramento International Airport - Passengers Aug 2025](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/SMFMonthlyArrivals.png)
 
 #### Sacramento International Airport (SMF) Passengers Departing and Arriving (Aug 2025)
 ![Sacramento International Airport - Passengers Aug 2025](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/Passengers.png)
