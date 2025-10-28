@@ -1,4 +1,6 @@
-## Brian Vineyard - Data Analyst Portfolio
+## Data Analytics Portfolio - Brian Vineyard
+
+
 
 ### Skillset
 
