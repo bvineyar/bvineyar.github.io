@@ -21,7 +21,7 @@ My skills include:
 
 ### Projects and Work Experience
 
-PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: [Brian Vineyard Portfolio Highlights](https://github.com/bvineyar/Brian_Vineyard_Portfolio/blob/master/Data%20Analyst%20Portfolio%Fi$Cal.pptx)
+PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: [Brian Vineyard Portfolio Highlights](https://github.com/bvineyar/bvineyar.github.io/blob/master/Data%20Analysis%20Portfolio%20FisCal.pptx)
 
 ----
 
