@@ -4,7 +4,7 @@
 
 ### Skillset
 
-As a data analyst with over 20 years experience at Cisco, Leidos, Morrison & Foerster, OneMain Financial, Cal Fed Investments, and PacketFabric, I have led projects to improve IT services, customer support, and business operations while reducing costs.
+As a data analyst with over 20 years experience in data analysis. I have led projects to improve IT services, customer support, and business operations while reducing costs.
 
 My skills include:
 
@@ -16,7 +16,7 @@ My skills include:
 - **Support Administration**: ServiceNow, Salesforce, JIRA, Remedy, HappyFox
 - **Softskills**: Requirements Gathering, Presentation, Communication, Project Management 
 - **Team Collaboration**: Microsoft Teams, Github, JIRA, Confluence, Slack, SharePoint
-- **Knowledgebase/Technical Writing**: Confluence, Word, Google Docs, Salesforce, ServiceNow, HappyFox, Markdown
+- **Technical Writing / Documentation**: Confluence, Word, Google Docs, Salesforce, ServiceNow, HappyFox, Markdown
 ---
 
 ### Projects and Work Experience
