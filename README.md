@@ -27,7 +27,7 @@ PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: [Brian
 
 #### Power BI Reports and Dashboards
 #### Network Support Ticket Analysis (Jan 2021 - May 2023)
-![Network Support Ticket Management - Executive Summary](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/PF Support.png)
+![Network Support Ticket Management - Executive Summary](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/PFSupport.png)
 
 #### Sacramento International Airport (SMF) Inbound Flights and Arrival Performance (July 2015 - July 2025)
 ![Sacramento International Airport - Passengers Aug 2025](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/ArrivalsSMFWhite.png)
