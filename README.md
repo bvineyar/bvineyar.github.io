@@ -143,7 +143,7 @@ Personal Fitness Tracker allowing users to track their fitness and health scores
 
 ### Work History
 
-Freelance / Self-Employed - Power BI Consultant (Dec 2024 - Present)
+#### Freelance / Self-Employed - Power BI Consultant (Dec 2024 - Present)
 
 Freelance data analytics work in Power BI building reports and dashboards for multiple clients including:
 
