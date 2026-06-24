@@ -143,6 +143,17 @@ Personal Fitness Tracker allowing users to track their fitness and health scores
 
 ### Work History
 
+Freelance / Self-Employed - Power BI Consultant (Dec 2024 - Present)
+
+Freelance data analytics work in Power BI building reports and dashboards for multiple clients including:
+
+- San Francisco Health Service System: Call Center Metric Analysis
+- California Dept of Fi$Cal: Financial / budget reporting
+- AMA Waterways: River cruise fleet operations, finance and operations
+- Recology: Recycling operations, including finances, and contracts
+- Sacramento County Dept of Airports: Airport operations including Sac Intl (SMF)
+- Hiller Companies: Construction job management, financial analysis
+
 #### Robert Half / Leidos (Sept 2024 - Dec 2024)
 - Analyzed asset data quality for all Software and Hardware assets in ServiceNow.
 - ETL of data from ServiceNow into Power BI using Power Query.
