@@ -154,7 +154,7 @@ Freelance data analytics work in Power BI building reports and dashboards for mu
 - Sacramento County Dept of Airports: Airport operations including Sac Intl (SMF)
 - Hiller Companies: Construction job management, financial analysis
 
-#### Robert Half / Leidos (Sept 2024 - Dec 2024)
+#### Robert Half / Leidos - Business Intelligence Data Analyst (Sept 2024 - Dec 2024)
 - Analyzed asset data quality for all Software and Hardware assets in ServiceNow.
 - ETL of data from ServiceNow into Power BI using Power Query.
 - Designed and optimized data model for IT Service Managment (ITSM).
@@ -163,13 +163,14 @@ Freelance data analytics work in Power BI building reports and dashboards for mu
 - Designed and published Power BI reports – including compliance, KPI and trend reports.
 - Contributed to continuous improvement efforts related to data governance or processes.
 
-#### Binding Minds / Morrison and Foerster (Jan 2024 - Apr 2024)
+#### Binding Minds / Morrison and Foerster - (Jan 2024 - Apr 2024)
 - Comprehensive Power BI Reporting for Morrison and Foerster law firm
 - Conversion of existing reports from SAP and Tableau to Power BI
 - Deployment of reports and dashboards to Power BI Online service
 - Setup and automation of scheduled refreshes on a monthly basis
 
-#### Apex Systems/ OneMain Financial (Sept 2023 - Dec 2023) Business Intelligence Data Analyst
+#### Apex Systems/ OneMain Financial (Sept 2023 - Dec 2023) 
+
 - Enterprise Desktop and Mobility Engineering team reporting and analytics
 - Dashboards created in Power BI Service to manage ServiceNow and Jira workload, and Windows and Mac system deployments
 - Connected to multiple data sources: Snowflake, ServiceNow, Jira, JAMF Pro, Intune, Devo
