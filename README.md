@@ -4,16 +4,16 @@
 
 ### Skillset
 
-As a data analyst with over 20 years experience in IT and data analysis, I have led projects to improve services, customer support, and business operations while reducing costs.
+As a data analyst with over 20 years experience in IT and data analysis, I have led projects to improve services, customer support, and business operations while reducing costs. 
 
 My skills include:
 
 - **Dashboards/Reports**: Power BI, Tableau, Excel, GoogleSheets, Jupyter Notebooks
 - **Cloud Data**: Snowflake, JupyterLab, Azure Data Studio, JAMF Pro, Intune, Jira Cloud, Grafana
-- **Data Modeling**: dbt, Python, SQL, DAX, Power Query, Excel, Statistical Analysis
+- **Data Modeling**: dbt, Python, SQL, DAX, Power Query, Excel, STAR Schema
 - **Databases**: SQL Server, PostgreSQL, MySQL, Oracle, Access
 - **Reports**: SAP BusinessObjects, Excel, SQL Server, ServiceNow, Salesforce, Jira, Confluence
-- **Support Administration**: ServiceNow, Salesforce, JIRA, Remedy, HappyFox
+- **ITAM / ITSM**: ServiceNow, Salesforce, JIRA, Remedy, HappyFox
 - **Softskills**: Requirements Gathering, Presentation, Communication, Project Management 
 - **Team Collaboration**: Microsoft Teams, Github, JIRA, Confluence, Slack, SharePoint
 - **Technical Writing / Documentation**: Confluence, Word, Google Docs, Salesforce, ServiceNow, HappyFox, Markdown
