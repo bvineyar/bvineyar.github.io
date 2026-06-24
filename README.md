@@ -149,7 +149,7 @@ Freelance data analytics work in Power BI building reports and dashboards for mu
 
 - San Francisco Health Service System: Call Center Metric Analysis
 - California Dept of Fi$Cal: Financial / budget reporting
-- AMA Waterways: River cruise fleet operations, finance and operations
+- AMA Waterways: River cruise fleet operations, finance, and customer experience
 - Recology: Recycling operations, including finances, and contracts
 - Sacramento County Dept of Airports: Airport operations including Sac Intl (SMF)
 - Hiller Companies: Construction job management, financial analysis
