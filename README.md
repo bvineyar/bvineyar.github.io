@@ -2,7 +2,7 @@
 
 
 
-### Skillset
+### Skillset 
 
 As a data analyst and US Air Force veteran with over 20 years experience in IT and data analysis, I have led projects to improve services, customer support, and business operations while reducing costs. 
 
