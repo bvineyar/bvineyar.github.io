@@ -26,6 +26,13 @@ PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: Coming
 ----
 
 #### Power BI Reports and Dashboards
+
+#### Managed Care Performance Report - 2023 Grievances
+![Managed Care Performance Report  2023 Grievances](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/2023Grievances.png)
+
+#### Budget Variance 2024
+![Budget Variance 2024](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/BudgetVariance.png)
+
 #### Network Support Ticket Analysis (Jan 2021 - May 2023)
 ![Network Support Ticket Management - Executive Summary](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/PFSupport.png)
 
