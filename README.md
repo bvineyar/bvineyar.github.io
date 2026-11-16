@@ -27,6 +27,9 @@ PowerPoint highlighting experience in SQL, Python, Power BI, and Tableau: Coming
 
 #### Power BI Reports and Dashboards
 
+#### Western Health Advantage Hospitals and Beds
+![Westen Health Advantage Hospitals Report](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/WHASample.png)
+
 #### Managed Care Performance Report - 2023 Grievances
 ![Managed Care Performance Report  2023 Grievances](https://github.com/bvineyar/bvineyar.github.io/blob/master/images/Grievances.png)
 
